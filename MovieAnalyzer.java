@@ -6,9 +6,12 @@ import java.util.*;
 import java.util.stream.Collectors;
 
 /**
+ * java 2 assignment-1
  * Public Class
+ *
  * @author 12110919
  */
+
 public class MovieAnalyzer {
     private final List<Movie> movies;
     private final Set<String> genres = new HashSet<>(Arrays.asList(
